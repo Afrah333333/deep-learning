@@ -1,2 +1,2 @@
-# STRNGER
-A flutter application for mental welbeing and enhance private communications
+# Deep learning
+Master deep learning fundamentals
